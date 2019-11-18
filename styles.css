@@ -36,5 +36,9 @@ span {
     text-decoration: line-through;
 }
 
+em {
+    text-transform: capitalize;
+}
+
 
 
