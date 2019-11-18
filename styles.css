@@ -25,6 +25,8 @@ h2 {
 h3 {
     font-size: 1.5em;
     text-align: center;
+    letter-spacing: -0.05em;
+    word-spacing: 0.5em;
 }
 
 blockquote {
@@ -47,6 +49,8 @@ strong {
 
 :link {
     color:green;
-    text-decoration: none;
+    text-decoration: none ;
 }
+
+
 
