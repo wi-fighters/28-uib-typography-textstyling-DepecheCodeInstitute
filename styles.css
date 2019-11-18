@@ -14,7 +14,23 @@ h1, h2, h3 {
     font-family: fantasy, cursive;
 }
 
+h1 {
+    font-size: 3em;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+h3 {
+    font-size: 1.5em;
+    text-align: center;
+}
+
 blockquote {
     margin: 0 0 0 30px;
+    font-style: italic;
 }
+
+
 
