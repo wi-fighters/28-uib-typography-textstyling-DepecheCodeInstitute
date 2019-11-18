@@ -40,5 +40,9 @@ em {
     text-transform: capitalize;
 }
 
+strong {
+    text-transform: uppercase;
+    font-weight: bold;
+}
 
 
