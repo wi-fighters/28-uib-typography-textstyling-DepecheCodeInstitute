@@ -32,5 +32,9 @@ blockquote {
     font-style: italic;
 }
 
+span {
+    text-decoration: line-through;
+}
+
 
 
